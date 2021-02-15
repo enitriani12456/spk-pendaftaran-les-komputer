@@ -66,7 +66,7 @@ CREATE TABLE `user` (
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`username`, `password`, `email`, `nama`, `level`, `ket`) VALUES
+INSERT INTO `user` (`username`, `paswd`, `email`, `nama`, `level`, `ket`) VALUES
 ('admin', '21232f297a57a5a743894a0e4a801fc3', 'devk@gmail.com', 'Developer Kampoeng', 1, 'Staff Kepaniteraan Hukum');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
